@@ -3866,31 +3866,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Thrust
-    clip: {fileID: 8300000, guid: d4cc53d4ef92cd741a07e5bf9ee2b97d, type: 3}
+    clip: {fileID: 8300000, guid: 03fbc923994bd3940a65f9991d716923, type: 3}
     volume: 0.85
     pitch: 0.5
     loop: 1
     source: {fileID: 0}
   - name: Boost
-    clip: {fileID: 8300000, guid: d4cc53d4ef92cd741a07e5bf9ee2b97d, type: 3}
+    clip: {fileID: 8300000, guid: a077b8607b5fb5942b1d10961eaa13f5, type: 3}
     volume: 0.85
     pitch: 1.5
     loop: 1
     source: {fileID: 0}
   - name: Explode
-    clip: {fileID: 8300000, guid: 6b435a7bca62a534ca540afd188b46cb, type: 3}
+    clip: {fileID: 8300000, guid: 6b9179fb055d9264fb8b34383b89d765, type: 3}
     volume: 0.85
     pitch: 1.5
     loop: 0
     source: {fileID: 0}
   - name: Crash
-    clip: {fileID: 8300000, guid: e854951874168724bbe2cfa42e4a144d, type: 3}
+    clip: {fileID: 8300000, guid: 21f7aa67a13758c46b383e78250d8433, type: 3}
     volume: 0.85
     pitch: 1.5
     loop: 0
     source: {fileID: 0}
   - name: SoftCrash
-    clip: {fileID: 8300000, guid: e854951874168724bbe2cfa42e4a144d, type: 3}
+    clip: {fileID: 8300000, guid: 56953bdddb9cdb945b3338c3de640832, type: 3}
     volume: 0.476
     pitch: 1.45
     loop: 0
